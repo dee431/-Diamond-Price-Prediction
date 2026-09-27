@@ -1,7 +1,8 @@
 # -Diamond-Price-Prediction
 https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRB7MHCkme7-pq_N1xtblrpEo9p2rPC2QAtZZSyJZ001v46Bckbw9R_1dXQxaA1V-joIESx4ngNyct3rhQ
 Markdown
-# 💎 GemVal: End-to-End Diamond Price Prediction System
+<img width="2048" height="1536" alt="licensed-image" src="https://github.com/user-attachments/assets/6e7c0aa6-3411-4eb5-92db-488afca6d773" />
+
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
